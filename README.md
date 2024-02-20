@@ -1,2 +1,4 @@
 # parser_next_nest
-Test task 
+Start project
+'npm i'
+'npm run dev'
