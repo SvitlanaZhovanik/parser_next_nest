@@ -1,12 +1,13 @@
 {
-  "devDependencies": {
-    "turbo": "^1.12.4"
-  },
+  "name": "parser_next_nest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "turbo run dev",
-    "build": "turbo run build"
+    "dev": "pnpm --parallel dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "workspaces": [
-    "apps/*"
-  ]
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
