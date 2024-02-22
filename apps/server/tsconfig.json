@@ -7,6 +7,9 @@
     "allowSyntheticDefaultImports": true,
     "target": "es2017",
     "sourceMap": true,
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "skipLibCheck": true
   }
 }
